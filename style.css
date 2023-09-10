@@ -1,0 +1,528 @@
+body{
+background: lightgray;
+}
+
+.headerad{
+	margin-top:-100px;
+	width:100%;
+	background-color: orange;
+	text-align: center;
+	margin-right:-10px;
+	border-bottom-right-radius: 10px
+}
+.hedec{
+	margin-top: -100px;
+	font-size: 30px;
+}
+.header{
+	margin-top: -12px;
+	width:100%;
+	background-color: orange;
+	text-align: center;
+	margin-right:-10px;
+	border-bottom-right-radius: 10px;
+}
+.outercore{
+	width:100%;
+}
+.mb{
+	margin-left: -10px;
+	width: 90px;
+	height: 50px;
+	background-color: white;
+	background-color: blue;
+	color: white;
+	border-bottom-left-radius: 10px;
+}
+.selectprod{
+	max-width: 400px;
+height: 400px;
+overflow-y: scroll;
+background-color: whitesmoke;
+margin-left: 10px;
+}
+.sidebottom{
+	border: 1px solid black;
+	margin-top: 100px;
+}
+.imgmb{
+	margin-top: 5px;
+	width: 100.7px;
+	height:89.7px ;
+	margin-left: 10px;
+	border-radius: 4px;
+}
+.handring{
+	font-family: 'Bondon' , cursive;
+}
+.link1,
+.link2,
+.link3,
+.link4,
+.link45{
+	margin-right: 20px;
+	text-decoration: none;
+	color: white;
+	width: 100%;
+	text-align: right;
+}
+.formcontact{
+	margin-top: 100px;
+	background-color: grey;
+}
+.colorcont,
+.colorsocial{
+ display: inline-block;
+ margin-right: 50px;
+ margin-left: 10px;
+ background-color: white;
+ margin-bottom: 10px;
+ box-shadow: 1px 2px 4px 2px white;
+ border-radius: 6px;
+ margin-bottom: 20px;
+}
+.formcontact{
+	max-height: 400px;
+}
+.headcont{
+	background-color: black;
+	text-align: center;
+	color: white;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+.colorlabel{
+	color: white;
+}
+.colorsocial{
+	background-color: white;
+	max-width: 600px;
+	height: 100%;
+	text-align:right;
+	border-radius: 7px;
+}
+.iconwhat,
+.iconface,
+.iconinsta,
+.icontele,
+.icontwitter{
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+}
+.whaticon,
+.faceicon,
+.intaicon,
+.teleicon,
+.twittericon{
+	font-size: 40px;
+	margin-right: 50px;
+}
+.whaticon{
+	color: green;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.faceicon{
+	color: midnightblue;
+}
+.intaicon{
+	color: pink;
+}
+.teleicon{
+    color: blue;
+}
+ .twittericon{
+ 	color: blue;
+ }
+ .productclass{
+ 	margin-top: 100px;
+ 	height: 800px;
+ 	overflow-y: scroll;
+ }
+.menutop{
+ position: fixed;
+ margin-top: -10px;
+ background-color: black;
+ height: 100px;
+ width: 100%;
+ margin-left: -10px;
+ margin-right: -10px;
+}
+h3{
+	text-align: center;
+	color: brown;
+}
+.menulink{
+	margin-top: 10px;
+	line-height: 20px;
+	display: inline-block;
+	text-align: right;
+    margin-left:150px
+}
+.infoMessage{
+	text-align: center;
+	color: blue;
+	width: 100%;
+	font-size: 20px;
+}
+.getcontact{
+	margin-top: 100px;
+	background-color: grey;
+}
+.form{
+	text-align: left;
+	margin: auto;
+	width:98%;
+	border: 0px;
+	box-shadow: 1px 2px 4px 2px midnightblue;
+	background-color: grey;
+	border-radius: 7px;
+}
+.labelcals{
+	color: white;
+}
+.signClass{
+	margin-top: 200px;
+}
+.input-box{
+	margin: auto;
+	width: 98.8%;
+	height:20px;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 1px solid blue;
+	background-color: grey;
+	color:white;
+	margin-right: 10px;
+}
+.curvedtext{
+		font-family: 'Bondon' , cursive;
+		text-transform: lowercase;
+		color: brown;
+}
+.productclass{
+	border: 1px solid black;
+	overflow: scroll;
+}
+.input-group{
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+	max-width: 300px;
+	display: inline-block;
+}
+.button{
+	width: 100%;
+    margin: auto;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+.infoSuccess{
+	text-align: center;
+	color: green;
+}
+.infoFailure{
+	text-align: center;
+	color: blue;
+
+}
+.menu-link{
+	text-align: right;
+	line-height: 40px;
+}
+.hede2{
+	text-align: center;
+}
+.inputp{
+	width: 100%;
+    height: 20px;
+}
+.data{
+	background-color: white;
+	width: 200px;
+}
+.SAVE{
+	margin-top: 20px;
+	width: 100px;
+	color: white;
+	margin-bottom: 10px;
+}
+.user-button{
+	text-align: center;
+}
+.linkie{
+	color: green;
+	margin-right: -5px;
+	margin-left: 10px;
+	background-color: black;
+	width: 100%;
+}
+table{
+	overflow: scroll;
+}
+.group{
+	margin-left: 10px;
+}
+.user-input{
+     margin-bottom: 20px;
+     margin-left: 10px;
+}
+.productlist{
+	margin-top: 20px;
+	display: inline-block;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background-color:white;
+	border-radius: 6px;
+	border: 1px solid black;
+}
+.h2x{
+	color: orange;
+	text-align: center;
+	background-color:black;
+	border-radius: 50%;
+}
+.curvedtext1{
+		font-family: 'Bondon' , cursive;
+		text-transform: lowercase;
+		color:yellow;
+}
+.failMessage{
+	color: red;
+	text-align: center;
+}
+.tableclass{
+	background-color: moccasin;
+	border: 0px;
+	width: 100%;
+	box-shadow: 1px 2px 4px 2px moccasin;
+}
+td{
+	border: 0px;
+}
+.hr{
+	background-color: black;
+}
+.submit-button{
+	text-align: right;
+}
+.inputuser{
+	display: inline-block;
+}
+.headersetting{
+	color: purple;
+}
+.saveChange{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 100%;
+	background-color: blue;
+	color: white;
+	border: 0px;
+	border-radius: 4px;
+}
+.inputbox{
+	width: 100%;
+}
+.submit-button{
+	text-align: center;
+}
+.orderbutton{
+	background: green;
+	color: white;
+	width: 150px;
+	border: 0px;
+}
+.overclass{
+	overflow-y: scroll;
+}
+.input-class{
+	text-align: center;
+}
+.input-m{
+	width: auto;
+	color: red;
+	text-align: center;
+}
+.inforequest{
+		margin-bottom: 10px;
+	margin-top: 10px;
+	display: inline-block;
+	border: 1px solid black;
+	margin-right: 10px;
+	margin-left: 10px;
+	text-align: center;
+}
+.notrec{
+	display: inline-block;
+	color: red;
+}
+.rec{
+	color: green;
+}
+.inputuser{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.img{
+	margin-left: 10px;
+	margin-right: 10px;
+	max-width: 250px;
+}
+.checkbox{
+	width: 20px;
+	height: 20px;
+	color: green;
+}
+.location{
+	color: blue;
+}
+.addre{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 210px;
+	margin-bottom: 26px;
+}
+th,td{
+ border:1px solid black; 
+ text-align: center;
+}
+.tbrow{
+	background: green;
+}
+.SAVE{
+background: blue;
+}
+.button{
+	color: white;
+	background: blue;
+	border: 0px;
+	height: 20px;
+	margin-left: 10px;
+	width: 97.5%;
+}
+.bottom-side{
+	margin-top: 100px;
+	background-color: grey;
+	border-radius: 4px;
+	overflow-y: scroll;
+	height: 800px;
+}
+.formconat{
+	width: 98%;
+	margin:auto;
+	box-shadow: 1px 2px 4px 2px midnightblue;
+    margin-bottom: 20px;
+}
+.uploadconatct{
+	width: 98%;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.tblhead{
+	background-color: moccasin;
+}
+.input-button{
+	text-align: center;
+	margin-bottom: 20px;
+	width: 98%;
+}
+.viewconts{
+	width: 100%;
+	overflow-x: scroll;
+}
+a{
+ text-decoration: none;
+}
+.confirmbutton{
+	color:white;
+	background: darkgreen;
+}
+.deletebutton{
+	color: white;
+	background: red;
+}
+.navdel{
+	color: white;
+}
+.optionclass{
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+.buttondec1{
+	background: darkgreen;
+	color: white;
+	width: 50px;
+	border: 0px;
+}
+.buttondec2{
+	background: red;
+	color: white;
+	width: 50px;
+	border: 0px;
+}
+.buttondec1,.buttondec2{
+	margin-right: 60px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+.confirm{
+	text-align: center;
+	box-shadow: 1px 2px 4px 2px midnightblue;
+
+}
+.actionB1, .actionB2{
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: white;
+	width: 100px;
+}
+.actionB1{
+	background: blue;
+}
+.actionB2{
+	background: red;
+}
+.table{
+	width: 100%;
+}
+.listpro{
+	margin-top: 20px;
+	box-shadow: 1px 2px 4px 2px midnightblue;
+	background-color:white;
+	border-radius: 10px;
+}
+.savechange{
+	background: blue;
+	color: white;
+	border: 0px;
+	width: 90%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.regcust{
+	color:yellow;
+	text-align: center;
+}
+.arengeinput{
+	border: 0px;
+	max-width: 420px;
+	display: inline-block;
+	margin-right:30px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+    box-shadow: 1px 2px 4px 2px grey;
+    color: white;
+    background-color: grey;
+}
+
